@@ -8,7 +8,6 @@ export const depositMoney = (account)=> {
  
 }
 
-
 export const withdrawtMoney = (account)=> {
         return (dispatch)=> {
             dispatch({
